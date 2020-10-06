@@ -1,0 +1,25 @@
+{
+  "name": "my-eventsite",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@nuxtjs/markdownit": "^1.2.10",
+    "@nuxtjs/pwa": "^3.0.2",
+    "contentful": "^7.14.6",
+    "core-js": "^3.6.5",
+    "i": "^0.3.6",
+    "nuxt": "^2.14.5",
+    "nuxt-fontawesome": "^0.4.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^3.0.2"
+  }
+}
